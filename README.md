@@ -1,3 +1,3 @@
 # Projects
 
-[create an anchor](#anchors-in-markdown)
+[create an anchor](#http://www.google.com)
