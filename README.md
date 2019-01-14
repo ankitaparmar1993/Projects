@@ -5,7 +5,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 
 
-[insight 1](https://public.tableau.com/profile/ankita5817#!/vizhome/delaysbyAirline/Sheet1?publish=yes)
+Please click : [insight 1](https://public.tableau.com/profile/ankita5817#!/vizhome/delaysbyAirline/Sheet1?publish=yes)
 
 [dashboard](https://public.tableau.com/profile/ankita5817#!/vizhome/Arrivaldelaybystate/Dashboard1?publish=yes)
 
